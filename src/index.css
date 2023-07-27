@@ -250,7 +250,8 @@ body {
 }
 
 .details img {
-  width: 33%;
+  width: 70%;
+  object-fit: cover;
 }
 
 .details-overview {
